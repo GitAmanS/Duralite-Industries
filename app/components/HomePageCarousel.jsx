@@ -73,7 +73,7 @@ const HomePageCarousel = () => {
               alt={carousel.title}
               className="w-full h-full object-cover"
             />
-            <div className="absolute top-0 left-0 right-0 bottom-0 p-6 flex flex-col pl-28 justify-center items-start">
+            <div className="absolute top-0 left-0 right-0 bottom-0 p-6 px-44 flex flex-col  justify-center items-start">
 
               <h2
                 className="text-3xl text-white"
